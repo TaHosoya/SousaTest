@@ -4,4 +4,6 @@ add hajime
 
 text file no hennshuu wo okonau.
 
+Branch tsukutte mita.
+
 add owari
